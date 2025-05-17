@@ -1,4 +1,5 @@
 **Data Analyst Project**: Exploratory Data Analysis using Python, SQL, Excel & Dashboard with Apana Time Technolgy pvt ltd
+
 ** Overview**
 This project demonstrates a comprehensive Exploratory Data Analysis (EDA) workflow using Python, SQL, and Excel, followed by the development of an interactive dashboard for intuitive data visualization. The analysis is based on the dataset provided in Data set.xlsx.
 
