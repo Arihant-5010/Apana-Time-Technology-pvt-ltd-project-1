@@ -1,18 +1,18 @@
-Data Analyst Project: Exploratory Data Analysis using Python, SQL, Excel & Dashboard with Apann Time Technolgy pvt ltd
-🔍 Overview
+**Data Analyst Project**: Exploratory Data Analysis using Python, SQL, Excel & Dashboard with Apana Time Technolgy pvt ltd
+** Overview**
 This project demonstrates a comprehensive Exploratory Data Analysis (EDA) workflow using Python, SQL, and Excel, followed by the development of an interactive dashboard for intuitive data visualization. The analysis is based on the dataset provided in Data set.xlsx.
 
-🧰 Tools & Technologies
-Python (pandas, numpy, matplotlib, seaborn, scipy)
+** Tools & Technologies**
+**Python (pandas, numpy, matplotlib, seaborn, scipy)**
 
-SQL (via SQLite/PostgreSQL or your preferred DBMS)
+**SQL** 
 
-Microsoft Excel
+**Microsoft Excel**
 
-Power BI / Streamlit / Plotly Dash (for dashboard visualization)
+Power BI  / Plotly Dash (for dashboard visualization)
 
-✅ Project Steps
-📌 Step 1: Python Code using Data set.xlsx
+** Project Steps**
+**Step 1**: **Python Code** using Data set.xlsx
 Performed EDA using Python to calculate:
 
 Measures of central tendency: Mean, Median, Mode
@@ -25,18 +25,14 @@ Kurtosis (tailedness of data distribution)
 
 
 
-📌 Step 2: SQL Code using Data set.xlsx
-Converted the Excel data into a SQL-compatible format and used SQL queries to compute:
+** Step 2**:** SQL Code** using Data set.xlsx
+ SQL queries to compute:
 
-Mean, Median, Mode
-
-Variance, Standard Deviation
-
-Skewness, Kurtosis (using mathematical approximations)
+Mean, Median, Mode, Variance, Standard Deviation , Skewness, Kurtosis (using mathematical approximations)
 
 
 
-📌 Step 3: Excel Analysis
+📌** Step 3**: **Excel Analysis**
 Opened the dataset in Excel and used built-in functions to calculate:
 
 =AVERAGE(), =MEDIAN(), =MODE()
@@ -47,7 +43,7 @@ Opened the dataset in Excel and used built-in functions to calculate:
 
 
 
-📌 Step 4: Interactive Dashboard
+**Step 4**: **Interactive Dashboard**
 Created an interactive dashboard that allows users to:
 
 Select variables/columns
