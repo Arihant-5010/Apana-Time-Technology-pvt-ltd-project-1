@@ -13,7 +13,9 @@ This project demonstrates a comprehensive Exploratory Data Analysis (EDA) workfl
 Power BI  / Plotly Dash (for dashboard visualization)
 
 ** Project Steps**
+
 **Step 1**: **Python Code** using Data set.xlsx
+
 Performed EDA using Python to calculate:
 
 Measures of central tendency: Mean, Median, Mode
@@ -27,6 +29,7 @@ Kurtosis (tailedness of data distribution)
 
 
 ** Step 2**:** SQL Code** using Data set.xlsx
+
  SQL queries to compute:
 
 Mean, Median, Mode, Variance, Standard Deviation , Skewness, Kurtosis (using mathematical approximations)
@@ -34,6 +37,7 @@ Mean, Median, Mode, Variance, Standard Deviation , Skewness, Kurtosis (using mat
 
 
 📌** Step 3**: **Excel Analysis**
+
 Opened the dataset in Excel and used built-in functions to calculate:
 
 =AVERAGE(), =MEDIAN(), =MODE()
@@ -45,6 +49,7 @@ Opened the dataset in Excel and used built-in functions to calculate:
 
 
 **Step 4**: **Interactive Dashboard**
+
 Created an interactive dashboard that allows users to:
 
 Select variables/columns
